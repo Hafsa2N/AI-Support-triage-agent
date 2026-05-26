@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Hackathon data – NEVER commit these folders
+data/
+support_tickets/
+
+# Local output files
+*.csv
+!requirements.txt
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
